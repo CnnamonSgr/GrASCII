@@ -5,4 +5,4 @@ Można otworzyć pliki lokalne, bądź po wybraniu opcji filmu z Youtube'a wklei
 
 Do pobierania filmów z Youtube wykorzystałem bibliotekę yt_dlp. W kodzie też użyte są biblioteki cv2 i numpy.
 
-W planach mam możliwość eksportowanie obrazu do pliku tekstowego oraz wybór języka (Polski/Angielski)
+W planach mam możliwość eksportowanie obrazu do pliku tekstowego, konwertowanie zwykłego tekstu do ascii-art oraz wybór języka (Polski/Angielski)
